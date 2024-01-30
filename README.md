@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hello
+
 With a background in software engineering and practical project experience, I am on a path of 
 ongoing learning and development in the industry. I apply my knowledge in application development 
 using popular programming languages such as Python, C#, and Java, along with my understanding 
