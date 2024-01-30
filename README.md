@@ -1,15 +1,19 @@
 # 💫 About Me:
-Hello, I am a Software Engineer, Data Scientist, and Data Analyst with a lot of knowledge and experience in Python, C#, C++, Java, Java Spring, MVC, and developing algorithms.
-
-In my career, I have worked on many projects in different areas and sizes. I always got good results because I always look for solutions. These projects helped me learn many skills, from using Python, C#, and Java to making algorithms and understanding data structures, software development, and data analysis.
-
-I am very good at making algorithms, and my way of finding solutions and thinking about problems helps me solve difficult problems and make projects better. I have experience in making the backend of websites work well and efficiently with Java, Java Spring, and MVC.
-
-As a Data Scientist and Data Analyst, my skills in understanding and creating value from data have made me a specialist in these fields. I have assisted businesses in solving complex problems through the effective use of Machine Learning techniques, thereby optimizing their decision-making processes.
-
-As a Software Engineer, my ability to construct complex software architectures and develop applications in various programming languages makes me a valuable resource at every stage of a project. I also follow best practices and industry standards to ensure the quality and applicability of the code.
-
-I describe myself as someone who approaches problems with an analytical and innovative perspective, enjoys collaboration, and constantly seeks new learning opportunities. I rapidly learn and apply current technologies and methods that add value to my team and improve business processes.
+Hello
+With a background in software engineering and practical project experience, I am on a path of 
+ongoing learning and development in the industry. I apply my knowledge in application development 
+using popular programming languages such as Python, C#, and Java, along with my understanding 
+of data structures and data analysis, to support and contribute to projects.
+My problem solving, algorithm design and analytical thinking skills help projects run more efficiently 
+in backend development projects using MVC and SpringBoot. My knowledge in software 
+engineering and data science allows me to develop solutions that contribute to business processes 
+using machine learning techniques.
+I have knowledge and experience in application development in leading programming languages 
+such as C#, Python and Java. My ability to develop complex software architectures and applications 
+in these languages ensures the quality of my projects and their compliance with industry standards. 
+With my analytical mindset, innovative problem solving approach, success in teamwork, ability to 
+quickly adapt to new technologies and methodologies, and desire for continuous learning, I aim to 
+create value both within the team and in the overall business processes.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sogutemir) 
