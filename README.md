@@ -5,10 +5,12 @@ With a background in software engineering and practical project experience, I am
 ongoing learning and development in the industry. I apply my knowledge in application development 
 using popular programming languages such as Python, C#, and Java, along with my understanding 
 of data structures and data analysis, to support and contribute to projects.
+
 My problem solving, algorithm design and analytical thinking skills help projects run more efficiently 
 in backend development projects using MVC and SpringBoot. My knowledge in software 
 engineering and data science allows me to develop solutions that contribute to business processes 
 using machine learning techniques.
+
 I have knowledge and experience in application development in leading programming languages 
 such as C#, Python and Java. My ability to develop complex software architectures and applications 
 in these languages ensures the quality of my projects and their compliance with industry standards. 
