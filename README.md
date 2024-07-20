@@ -1,5 +1,15 @@
 # 💫 About Me:
-Hello<br><br>With a background in software engineering and practical project experience, I am on a path of <br>ongoing learning and development in the industry. I apply my knowledge in application development <br>using popular programming languages such as Python, C#, and Java, along with my understanding <br>of data structures and data analysis, to support and contribute to projects.<br><br>My problem solving, algorithm design and analytical thinking skills help projects run more efficiently <br>in backend development projects using MVC and SpringBoot. My knowledge in software <br>engineering and data science allows me to develop solutions that contribute to business processes <br>using machine learning techniques.<br><br>I have knowledge and experience in application development in leading programming languages <br>such as C#, Python and Java. My ability to develop complex software architectures and applications <br>in these languages ensures the quality of my projects and their compliance with industry standards. <br>With my analytical mindset, innovative problem solving approach, success in teamwork, ability to <br>quickly adapt to new technologies and methodologies, and desire for continuous learning, I aim to <br>create value both within the team and in the overall business processes.
+Detail-oriented, organized, and meticulous software engineer with extensive experience in Java, Spring Framework, and React. Skilled in developing multi-tier architectures and user-centric web applications, I am committed to delivering high-quality and innovative solutions. Strong background in both frontend and backend technologies.
+
+Professional Experience:
+- Designed and maintained functional databases, applications, and servers.
+- Reviewed code, performed debugging, and resolved issues.
+- Developed key features and provided support for client websites.
+- Created RESTful services using Java and Spring Boot.
+- Contributed to the design of multi-tier architectures.
+- Collaborated with team members to build user-centric web applications with React.
+
+My career objective is to continuously enhance my knowledge and expertise in software engineering, with a deep focus on technologies such as Java, Spring Framework, and React. I aim to further develop my skills in data access, microservice architectures, and user-centric web application development. In the long term, I aspire to advance into technical leadership positions, providing strategic contributions to large-scale projects and contributing to the overall success of the company.
 
 
 ## 🌐 Socials:
