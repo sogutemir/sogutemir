@@ -13,3 +13,8 @@ Experienced with Java, Spring Boot, Kafka, and Elasticsearch in distributed micr
 [![](https://visitcount.itsvg.in/api?id=sogutemir&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<div align="center">
+    
+  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+</div>
