@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Interested in web-based n-tiered distributed architectures using Spring, with a focus on object-oriented analysis, design patterns, and software patterns. Currently enhancing skills in these areas and committed to optimizing Java applications through performance improvements, caching, and messaging solutions.
 Experienced with Java, Spring Boot, Kafka, and Elasticsearch in distributed microservices, adhering to Clean Architecture principles. Actively developing knowledge in cloud technologies such as AWS, Docker, and Kubernetes, while continuously learning and refining problem-solving and algorithmic thinking skills.
 
